@@ -3,7 +3,7 @@
 An interactive web app to classify iris flowers using a trained **Random Forest Classifier**, built with **Streamlit** and **scikit-learn**.  
 Predicts the flower species based on sepal and petal measurements.  
 
-🚀 **[Live Demo]([https://share.streamlit.io/your-deployment-link](https://irisappdeploy.streamlit.app/))** 
+🚀 **[Live Demo](https://irisappdeploy.streamlit.app/)** 
 
 ---
 
